@@ -17,3 +17,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/Himanshuupraity/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
+<h3>Built With</h3>
+
+My personal portfolio, which features some of my github projects as well as my resume and technical skills.<br/>
+
+This project was built using these technologies.
+
+- HTML
+- CSS3
+- Java Script
+- VsCode
